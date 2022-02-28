@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\bin\Debug\net5.0\UC5-Salary.exe
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\bin\Debug\net5.0\UC5-Salary.deps.json
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\bin\Debug\net5.0\UC5-Salary.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\bin\Debug\net5.0\UC5-Salary.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\bin\Debug\net5.0\UC5-Salary.dll
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\bin\Debug\net5.0\UC5-Salary.pdb
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.dll
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\refint\UC5-Salary.dll
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.pdb
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\UC5-Salary.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC5-Salary\UC5-Salary\obj\Debug\net5.0\ref\UC5-Salary.dll
